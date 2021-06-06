@@ -1,4 +1,4 @@
-# Sirvany Self
+# Homebrew Tap
 
 ## How do I install these formulae?
 
